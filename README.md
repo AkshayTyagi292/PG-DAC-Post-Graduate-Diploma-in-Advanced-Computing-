@@ -1,0 +1,2 @@
+# PG-DAC-Post-Graduate-Diploma-in-Advanced-Computing-
+This repository contains all the assignments, projects, and study material from my Post Graduate Diploma in Advanced Computing (PG-DAC) at CDAC ACTS Pune. The PG-DAC course is designed to equip students with comprehensive knowledge and practical skills in areas such as software development, system programming, data structures, algorithms and others
